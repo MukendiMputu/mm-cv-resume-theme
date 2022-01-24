@@ -359,9 +359,7 @@ user-select: none;
         display: none !important;
   }
 }
-</style>
-
-</head>
+</style></head>
   <body>
     <script src="//static.parastorage.com/services/cookie-sync-service/1.282.0/embed-cidx.bundle.min.js"></script>
     <script src="//static.parastorage.com/services/tag-manager-client/1.427.0/hostTags.bundle.min.js"></script>
